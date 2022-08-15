@@ -3,11 +3,11 @@
   <title>张帅的博客</title>
   
   <subtitle>A</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ohtoai1024.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://ohtoai1024.github.io/"/>
   <updated>2022-08-15T02:01:52.727Z</updated>
-  <id>http://example.com/</id>
+  <id>https://ohtoai1024.github.io/</id>
   
   <author>
     <name>Ohto_Fly</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>代码演示</title>
-    <link href="http://example.com/2022/08/14/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
-    <id>http://example.com/2022/08/14/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</id>
+    <link href="https://ohtoai1024.github.io/archives/be82d226.html"/>
+    <id>https://ohtoai1024.github.io/archives/be82d226.html</id>
     <published>2022-08-14T15:38:31.083Z</published>
     <updated>2022-08-15T02:01:52.727Z</updated>
     
