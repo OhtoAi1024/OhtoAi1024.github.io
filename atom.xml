@@ -6,7 +6,7 @@
   <link href="https://ohtoai1024.github.io/atom.xml" rel="self"/>
   
   <link href="https://ohtoai1024.github.io/"/>
-  <updated>2022-08-15T08:47:58.285Z</updated>
+  <updated>2022-08-21T14:39:40.509Z</updated>
   <id>https://ohtoai1024.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ohtoai1024.github.io/archives/1.html"/>
     <id>https://ohtoai1024.github.io/archives/1.html</id>
     <published>2022-08-15T08:10:06.536Z</published>
-    <updated>2022-08-15T08:47:58.285Z</updated>
+    <updated>2022-08-21T14:39:40.509Z</updated>
     
     <content type="html"><![CDATA[<h1 id="解放双手，每日强国"><a href="#解放双手，每日强国" class="headerlink" title="解放双手，每日强国"></a>解放双手，每日强国</h1><p>​<em>本教程全程傻瓜式操作，适用于未使用过油猴和GitHub的小白，脚本内容搬运原作者：<a href="https://github.com/OhtoAi1024/techxuexi-js">techxuexi-js</a>的不学习何以强国.js（部分进不去的可以私聊我获取文件，再次强调我只是搬运工，如有侵权会立即删除）</em></p><h2 id="一、安装油猴"><a href="#一、安装油猴" class="headerlink" title="一、安装油猴"></a>一、安装油猴</h2><p>​<em>已经安装过的可以跳过这里</em></p><ol><li>打开你的edge浏览器，点击扩展</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131226862.jpg" alt="img"></p><ol start="2"><li>点击获取下图选项获取扩展</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227984.jpg" alt="img"></p><ol start="3"><li>搜索框输入“tempermonkey”，搜索该扩展并获取</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227875.jpg" alt="img"></p><ol start="4"><li>之后会有弹窗，点“添加扩展”</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227120.jpg" alt="img"></p><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227430.jpg" alt="img"></p><ol start="5"><li>把目光聚焦到浏览器的右上方</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227455.jpg" alt="img"></p><ol start="6"><li>这时候可能还看不到安装上的Tempermonkey(之后步骤简称油猴)，因为添加扩展后，默认设置是不可视的</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227521.jpg" alt="img"></p><ol start="7"><li>按下图顺序点击，便可设置为工具栏可见了</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227990.jpg" alt="img"></p><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227805.jpg" alt="img"></p><h2 id="二、添加脚本"><a href="#二、添加脚本" class="headerlink" title="二、添加脚本"></a>二、添加脚本</h2><ol start="8"><li>按下图操作，会进入一个新的界面</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227043.jpg" alt="img"></p><ol start="9"><li>新的界面如下</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227747.png" alt="img"></p><ol start="10"><li>底下这些内容是可以编辑的，首先把原本的内容删掉</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227861.png" alt="img"></p><ol start="11"><li>然后把从<a href="https://github.com/OhtoAi1024/techxuexi-js">techxuexi-js</a>或者我发给你的文档内容先Ctrl+A(全选)，然后Ctrl+C（复制），最后Ctrl+V（粘贴）到这里</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227559.png" alt="img"></p><ol start="12"><li>Ctrl+S（保存），脚本就新建成功了，启用它</li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131301723.png" alt="img"></p><h2 id="三、脚本使用"><a href="#三、脚本使用" class="headerlink" title="三、脚本使用"></a>三、脚本使用</h2><ol start="13"><li><p>进入学习强国网页版，<a href="https://www.xuexi.cn/">学习强国 (xuexi.cn)</a>，然后用户登录（这里就不截图演示了）</p></li><li><p>右上角的浮窗点，开始学习，之后什么都不用不做，慢慢等待完成即可；以后每天只需要重复最后两步，就可以懒人式斩获40分了</p></li></ol><p><img src="https://ohtoai-images.oss-cn-beijing.aliyuncs.com/imgs/OhtoAi_Blog/202207131227928.jpg" alt="img"></p>]]></content>
     
@@ -32,6 +32,10 @@
     
     <category term="日常工具" scheme="https://ohtoai1024.github.io/categories/%E6%97%A5%E5%B8%B8%E5%B7%A5%E5%85%B7/"/>
     
+    
+    <category term="学习工具" scheme="https://ohtoai1024.github.io/tags/%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="日常" scheme="https://ohtoai1024.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
